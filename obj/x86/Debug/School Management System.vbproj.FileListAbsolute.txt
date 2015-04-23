@@ -1,0 +1,36 @@
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\bin\Debug\School Management System.exe.config
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.AddStudent.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.AddTeachers.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.MainInterface.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.ManageStudents.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.ManageTeachers.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.ManageUsers.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.Resources.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.PrintResults.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.SMS_About.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.User_Login.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.WelcomeScreen.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School Management System.vbproj.GenerateResource.Cache
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\bin\Debug\SMS.mdf
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\bin\Debug\SMS_log.ldf
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\bin\Debug\School Management System.exe
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\bin\Debug\School Management System.pdb
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\bin\Debug\School Management System.xml
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School Management System.exe
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School Management System.xml
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School Management System.pdb
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\bin\Debug\School Management System.exe.manifest
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\bin\Debug\School Management System.application
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School Management System.exe.manifest
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School Management System.application
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.EnterFA1.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.EnterFA2.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.EnterFA3.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.EnterFA4.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.EnterSA1.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.EnterSA2.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.ComputeResult.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School_Management_System.PrintReportCard.resources
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\RdlCompile.cache
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\RdlCompile.compiled
+J:\Work\School Software\Software\AnkArp IT Solutions Limited\School Management System\obj\x86\Debug\School Management System.vbprojResolveAssemblyReference.cache
